@@ -19,7 +19,7 @@ import (
 )
 
 type Config struct {
-	BotToken         string            `yaml:"BotToken"`
+	BotToken         string            `yaml:"MTA4MTU3OTI1MzUyMDQwODU3Ng.GaIQZq.-iolEqKsNYPIiif2E_9IAcYMztidiQ7vTkeq4s"`
 	InviteLink       string            `yaml:"InviteLink"`
 	AutoKickOnServer map[string]string `yaml:"AutoKickOnServer"`
 	SpamChannel      string            `yaml:"SpamChannel"`
